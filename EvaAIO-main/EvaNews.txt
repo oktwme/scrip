@@ -1,0 +1,6 @@
++ Range indicator added.
++ Zed R Dodge fixed.
++ SpellTimer recolored.
++ SpellTracker improved.
++ Updated to 12.15
++ Discord: https://discord.gg/pgM3mEGQUm

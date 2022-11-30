@@ -1,0 +1,129 @@
+███████╗██╗░░░██╗░█████╗░░█████╗░██╗░█████╗░
+██╔════╝██║░░░██║██╔══██╗██╔══██╗██║██╔══██╗
+█████╗░░╚██╗░██╔╝███████║███████║██║██║░░██║
+██╔══╝░░░╚████╔╝░██╔══██║██╔══██║██║██║░░██║
+███████╗░░╚██╔╝░░██║░░██║██║░░██║██║╚█████╔╝
+╚══════╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░╚════╝░ v1.0.1.5
+
+--------------------------------- v1.0.1.5 ---------------------------------
+
+- ChampTracker: 
+    + Champs range indicator added.
+    + Radar added.
+- Spell Timer: Recolor
+- SpellTracker: 
+    + Show spell level.
+    + Mana indicator.
+- RecallTracker && BaseUlt: Red line indicator in recall bar when an enemy 
+                            could be killed
+- Zed: Fixed R Dodge;
+
+--------------------------------- v1.0.1.4 ---------------------------------
+
+- Auto level: rewritten.
+- Auto load.
+- Spell timer is back.
+
+--------------------------------- v1.0.1.3 ---------------------------------
+
+- Jungle timer: Added.
+- BLitzcarnk: Q Prediction improved.
+- Caitlyn: Fixed E random.
+- Auto ward added.
+- Zzihao Yasuo Added.
+
+--------------------------------- v1.0.1.2 ---------------------------------
+
+- GankAlert: New sound for alerts.
+- Exploit -> Kalista: 
+    + Removed developer msg.
+    + Improved.
+- Added auto level.
+- Nilah: now can use Q on jungle mobs.
+- Code optimization.
+
+--------------------------------- v1.0.1.1 ---------------------------------
+
+- SpellTracker: Fix barrier icon.
+- Tracker: New text render.
+- Recall Tracker: New Desing.
+- Xerath: R delay.
+- Nilah: Added beta.
+- HUDTracker: 
+    + Fix barrier icon.
+    + New line desing.
+
+--------------------------------- v1.0.1.0 ---------------------------------
+
+- Irelia: 
+    + Q Logic improved.
+    + New E Mode.
+- PoorAwereness: Removed.
+- Awerenes: Fully ewritten. No more wait time.
+- New rendering system.
+
+--------------------------------- v1.0.0.9 ---------------------------------
+
+- Vayne Added.
+
+--------------------------------- v1.0.0.8 ---------------------------------
+
+- Illaoi Added
+- Senna: No longer detects GP barrels as souls.
+- Damage Indicator: Last Hit helper will now only display at a range of 2500.
+- Awereness: Optimized code
+
+--------------------------------- v1.0.0.7 ---------------------------------
+
+- Awereness: Jungle timer font changed (FPS friendly).
+- Updated to 12.10
+- Fixed compiler error.
+
+--------------------------------- v1.0.0.6 ---------------------------------
+
+- Jinx Added.
+- Zed Added.
+- Damage indicator: Change indicator color to black.
+- Senna: Added a line from Senna to souls.
+- Skin Changer: Now can turn it off.
+- Added Poor Awereness: Poor version of original Awereness but FPS friendly.
+- SpellTimer: More spells added.
+- Modularity: Now you can choose which scripts to have activated and which 
+              not.
+
+--------------------------------- v1.0.0.5 ---------------------------------
+
+- EvaNews
+- RecallTracker: Added minimap indicator.
+- Damage Indicator: Last Hit helper.
+- Discord link added.
+
+--------------------------------- v1.0.0.4 ---------------------------------
+
+- Pyke added.
+- Fixed: Senna sometimes didn't take the souls.
+- Killable alert improved.
+- SpellTimer: New skills added.
+
+- From now on EvaAIO will be paid
+
+--------------------------------- v1.0.0.3 ---------------------------------
+
+- Samira added.
+- Recall Tracker: Shen Ultimate added.
+- SpellTimer: New skills added.
+- Code optimization.
+
+--------------------------------- v1.0.0.2 ---------------------------------
+
+- Katarina: Script rewritten. In theory no more FPS drops.
+- SpellTimer: Added a SpellTimer that shows you the remaining time of some
+              abilities (Vayne R for example).
+- Recall Tracker: Recall colors have been changed.
+- Senna added.
+
+--------------------------------- v1.0.0.1 ---------------------------------
+
+- First Publication
+
+----------------------------------------------------------------------------

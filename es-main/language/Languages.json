@@ -1,0 +1,22 @@
+[
+  {
+    "CodePage": 1252,
+    "Language": "English",
+    "FileName": "en.json"
+  },
+  {
+    "CodePage": 1252,
+    "Language": "French",
+    "FileName": "fr-FR.json"
+  },
+  {
+    "CodePage": 65001,
+    "Language": "Chinese",
+    "FileName": "zh-CN.json"
+  },
+  {
+    "CodePage": 1252,
+    "Language": "Vietnamese",
+    "FileName": "vi-VN.json"
+  }
+]
