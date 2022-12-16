@@ -130,7 +130,7 @@ namespace ImpulseAIO.Champion.Kalista
                 var target = Orbwalker.GetTarget();
                 if (target != null)
                 {
-                    if (Variables.GameTimeTickCount - LastAATick <= 0 + Game.Ping/2)
+                    if (Variables.GameTimeTickCount - LastAATick <= 99999 + Game.Ping/2)
                     {
                         Player.IssueOrder(GameObjectOrder.MoveTo, Game.CursorPos);
                     }
